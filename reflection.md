@@ -10,7 +10,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
   First thing i noticed was that the range was wrong for each of the hard-med-easy. Than i noticed it kept saying the wrong hint. with higher and lower. Lastly, I couldn't even click new game.
 
-
+aaa
 
 ---
 
